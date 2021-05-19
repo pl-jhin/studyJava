@@ -4,7 +4,7 @@ package LeetCode.Day210518;
  * @date 2021/5/18 8:18
  * @Description https://leetcode-cn.com/problems/maximum-subarray/
  */
-public class easy53 {
+public class Easy53 {
     public static int maxSubArray(int[] nums) {
         int maxNumber = nums[0];
         int pre = 0;
