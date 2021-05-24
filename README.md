@@ -1,5 +1,8 @@
 # studyJava
 敢敢雷学习Java的日常库
+
+#### 210524
+leetcode 169. 多数元素
 #### 210521
 leetcode 121. 买卖股票的最佳时机
 
