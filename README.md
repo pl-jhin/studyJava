@@ -1,6 +1,11 @@
 # studyJava
 敢敢雷学习Java的日常库
 
+
+#### 210527
+leetcode 485. 最大连续 1 的个数
+leetcode 561. 数组拆分 I
+
 #### 210526
 leetcode 283. 移动零
 leetcode 268. 丢失的数字
