@@ -1,6 +1,9 @@
 # studyJava
 敢敢雷学习Java的日常库
 
+#### 210528
+leetcode 1833. 雪糕的最大数量
+leetcode 1480. 一维数组的动态和
 
 #### 210527
 leetcode 485. 最大连续 1 的个数
